@@ -4,8 +4,8 @@
  Source Server         : DB Training
  Source Server Type    : MySQL
  Source Server Version : 50736
- Source Host           : 159.65.138.79:3306
- Source Schema         : polkesban
+ Source Host           : 127.0.0.1:3306
+ Source Schema         : mini-pos
 
  Target Server Type    : MySQL
  Target Server Version : 50736
