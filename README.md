@@ -24,9 +24,8 @@ Proyek ini mempunyai 4 Domain layer :
 
 ##### The diagram:
 
-![golang clean architecture](https://whimsical.com/LS5gxocptNwdDg4fLLHFyF)
+![golang clean architecture](https://github.com/yuki216/mini-pos/arsitektur.png)
 
-The original explanation about this project's structure  can read from this medium's post : https://medium.com/@imantumorang/golang-clean-archithecture-efd6d7c43047.
 
 #### Fitur Aplikasi
  * Login Menggunakan JWT dan password menggunakan enkripsi bcrypt
